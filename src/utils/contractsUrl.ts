@@ -1,0 +1,1 @@
+export const ticketsContract = '0x36Fa0f09A0A1F23C9c060Dc5219DCc08718080B4';
